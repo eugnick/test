@@ -1,4 +1,4 @@
 # test
 training git
-er
-er
+new cange
+hello world
